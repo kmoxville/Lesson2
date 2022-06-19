@@ -1,0 +1,1 @@
+﻿global using CatalogKey = System.Int32;
